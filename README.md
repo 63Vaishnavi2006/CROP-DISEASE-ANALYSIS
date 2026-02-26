@@ -37,7 +37,7 @@ Python 3.x with necessary machine learning libraries
 Steps:
 Clone the repository:
 
-git clone https://github.com/shanthi1325/Crop-Disease-Analysis
+git clone https://github.com/63Vaishnavi2006/CROP-DISEASE-ANALYSIS
 Install frontend dependencies:
 
 cd frontend
@@ -70,3 +70,4 @@ Create a new branch (git checkout -b feature-branch).
 Commit your changes (git commit -m "Add new feature").
 Push to the branch (git push origin feature-branch).
 Open a pull request.
+
