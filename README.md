@@ -69,8 +69,7 @@ cd backend
 
 python -m venv venv
 
-source venv/bin/activate  
-# For Windows: venv\Scripts\activate
+source venv/bin/activate    # For Windows: venv\Scripts\activate
 
 pip install -r requirements.txt
 
@@ -109,5 +108,6 @@ Commit your changes (git commit -m "Add new feature").
 Push to the branch (git push origin feature-branch).
 
 Open a pull request.
+
 
 
